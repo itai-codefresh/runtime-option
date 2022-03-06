@@ -1,0 +1,8 @@
+kubectl apply -f ./runtime-1/bootstrap
+
+
+
+kubectl apply -f ./runtime-2/bootstrap
+
+
+kubectl apply -f ./runtime-3/bootstrap
